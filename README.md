@@ -1,6 +1,10 @@
 ## 📊 Dataset Description
 
-The dataset contains clinical indicators used to assess the risk of a heart attack in patients. Below is a description of each attribute:
+The dataset contains clinical indicators used to assess the risk of a heart attack in patients. 
+
+Try this notebook ! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Christine‑97/Data_analysis_with_jupyter/main)
+
+Below is a description of each attribute:
 
 | **Attribute**             | **Description** |
 |--------------------------|-----------------|
