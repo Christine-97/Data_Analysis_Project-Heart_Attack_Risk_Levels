@@ -1,3 +1,6 @@
+## Try this notebook ! 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Christine-97/Data_analysis_with_jupyter/main?filepath=step-by-step-data-analysis-plan.ipynb)
+
 ## 📊 Dataset Description
 
 The dataset contains clinical indicators used to assess the risk of a heart attack in patients. 
@@ -16,6 +19,3 @@ Below is a description of each attribute:
 | **Troponin**             | A protein released into the blood when the heart muscle is damaged. Elevated levels are strongly associated with heart attacks. |
 | **Result**               | Classification of the patient's condition: <br>• `positive` = Heart attack occurred <br>• `negative` = No heart attack detected <br> This is the target label for classification. |
 | **Risk_Level**           | Categorical assessment of the patient's risk: <br>• Low <br>• Moderate <br>• High |
-
-Try this notebook ! 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Christine-97/Data_analysis_with_jupyter/main?filepath=step-by-step-data-analysis-plan.ipynb)
