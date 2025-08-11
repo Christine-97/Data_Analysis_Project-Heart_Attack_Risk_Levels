@@ -1,6 +1,10 @@
 ## Try this notebook ! 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Christine-97/Data_Analysis_Project-Heart_Attack_Risk_Levels/main?filepath=step-by-step-data-analysis-plan.ipynb)
 
+### 📊 Data Source
+
+[![Kaggle Dataset](https://img.shields.io/badge/View%20on-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/mostafamohamed1112/heart-attack-risk-levels-dataset)
+
 ## 📊 Dataset Description
 
 The dataset contains clinical indicators used to assess the risk of a heart attack in patients. 
