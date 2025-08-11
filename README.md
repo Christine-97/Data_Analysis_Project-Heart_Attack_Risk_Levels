@@ -1,5 +1,5 @@
 ## Try this notebook ! 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Christine-97/Data_analysis_with_jupyter/main?filepath=step-by-step-data-analysis-plan_test.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Christine-97/Data_analysis_with_jupyter/main?filepath=step-by-step-data-analysis-plan.ipynb)
 
 ## 📊 Dataset Description
 
