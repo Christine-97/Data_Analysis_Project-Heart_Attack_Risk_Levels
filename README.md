@@ -5,7 +5,6 @@
 
 [![Kaggle Dataset](https://img.shields.io/badge/View%20on-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/mostafamohamed1112/heart-attack-risk-levels-dataset)
 
-[![Kaggle](https://cdn.jsdelivr.net/gh/dheerajmadhukar/assets@main/kaggle-logo.png)](https://www.kaggle.com/datasets/mostafamohamed1112/heart-attack-risk-levels-dataset)
 
 ## 📊 Dataset Description
 
